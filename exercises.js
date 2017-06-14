@@ -219,12 +219,12 @@ var napSchedule = [false, false, true, false, true, true];
 
 function nap(schedule){
 
- {for (var i=0; i<napSchedule.length; i++);
+ for (var i=0; i<napSchedule.length; i++);
     console.log( schedule [i] === true); 
-  return "ZzZzZzZz";} else {
+  return "ZzZzZzZz";
 console.log( schedule [i] === false); 
 return "Gotta get coding!";
-}
+
 }
 console.log("napSchedule;", napSchedule);
 
